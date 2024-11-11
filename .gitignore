@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment directory
+performance_dashboard_env/
+
+# Environment variables
+.env
+
+# Flask specific files
+instance/
+*.log
+
+# JMeter files
+*.jtl
+*.log
+jmeter.log
+results/
+*.csv  # If you're using a CSV for dynamic data in JMeter
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / editor specific files
+.vscode/
+.idea/
+*.swp
