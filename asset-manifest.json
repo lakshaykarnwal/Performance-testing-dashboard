@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Performance-testing-dashboard/static/css/main.31c7c676.css",
-    "main.js": "/Performance-testing-dashboard/static/js/main.e4e41ee6.js",
+    "main.js": "/Performance-testing-dashboard/static/js/main.2f9a0301.js",
     "static/js/453.d555c7cb.chunk.js": "/Performance-testing-dashboard/static/js/453.d555c7cb.chunk.js",
     "index.html": "/Performance-testing-dashboard/index.html",
     "main.31c7c676.css.map": "/Performance-testing-dashboard/static/css/main.31c7c676.css.map",
-    "main.e4e41ee6.js.map": "/Performance-testing-dashboard/static/js/main.e4e41ee6.js.map",
+    "main.2f9a0301.js.map": "/Performance-testing-dashboard/static/js/main.2f9a0301.js.map",
     "453.d555c7cb.chunk.js.map": "/Performance-testing-dashboard/static/js/453.d555c7cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31c7c676.css",
-    "static/js/main.e4e41ee6.js"
+    "static/js/main.2f9a0301.js"
   ]
 }
