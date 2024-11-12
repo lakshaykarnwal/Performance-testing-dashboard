@@ -118,7 +118,7 @@ const JMeterDashboard = () => {
 
   // Fetch the default CSV file when the component mounts
   useEffect(() => {
-    fetch('/data.csv') // Path to the CSV file in the public folder
+    fetch(process.env.REACT_APP_CSV_URL) // Path to the CSV file in the public folder
       .then(response => response.text())
       .then(data => processCSV(data))
       .catch(err => setError('Failed to load default CSV file'));

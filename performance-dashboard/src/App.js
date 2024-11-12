@@ -1,9 +1,9 @@
 import './App.css';
-import NewDashboard from './components/NewDashboard';
+import JMeterDashboard from './components/JMeterDashboard';
 
 function App() {
   return (
-   <NewDashboard/>
+   <JMeterDashboard/>
   );
 }
 
