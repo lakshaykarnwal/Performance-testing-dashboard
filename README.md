@@ -37,16 +37,22 @@ View the live application: [Performance Testing Dashboard](https://lakshaykarnwa
    - Failure rate percentage
    - Minimum response time
    - Maximum response time
+  
+<img width="1237" alt="Screenshot 2024-11-11 at 9 47 57 PM" src="https://github.com/user-attachments/assets/a0be70b8-6632-4e29-b797-fda0822c2ae8">
 
 2. **Interactive Data Visualization**
    - Line chart showing response time trends
    - Timestamp-based X-axis
    - Clear metric visualization
 
-3. **File Management**
+<img width="783" alt="Screenshot 2024-11-11 at 9 48 21 PM" src="https://github.com/user-attachments/assets/0d6c0136-6d1c-487e-bad0-48c9ffbdc517">
+
+4. **File Management**
    - CSV file upload functionality
    - Automatic data processing and visualization
    - Error handling for invalid files
+  
+<img width="395" alt="Screenshot 2024-11-11 at 9 49 22 PM" src="https://github.com/user-attachments/assets/b083b91a-8d00-46fa-aefe-4932f7e9ad1f">
 
 ## How It Works
 
